@@ -1,27 +1,26 @@
 {
   "repoName": "home-theater-projector-resource-map",
-  "description": "Maps projectors, dark-room setups, TV versus projector decisions, and home theater constraints.",
+  "shortDescription": "Resource map for Better Buy Lab projector, home theater, screen size, dark-room setup, and TV vs projector buying decisions.",
+  "description": "Resource map for Better Buy Lab projector, home theater, screen size, dark-room setup, and TV vs projector buying decisions.",
   "homepage": "https://www.betterbuylab.com/home-theater",
   "topics": [
-    "projector",
+    "betterbuylab",
+    "buying-guides",
+    "product-research",
+    "projectors",
     "home-theater",
     "dark-room",
     "screen-size",
-    "buying-guides",
-    "product-research",
-    "betterbuylab",
+    "buyer-fit",
+    "consumer-tech",
     "entertainment"
   ],
   "visibility": "public",
   "pinnedRecommendation": false,
+  "profilePurpose": "Projector and home theater constraint maps with TV sibling overlap.",
   "primaryWebsitePages": [
     "/home-theater",
     "/home-theater/best-projectors"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources",
-    "tv-buying-guide-resource-map",
-    "headphone-audio-buying-resource-map"
-  ],
-  "complianceNotes": "Scoped README links only; no live price language."
+  "complianceNotes": "Room-fit framing; no throw-distance guarantees without page support."
 }
