@@ -1,0 +1,28 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com/home-theater",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/home-theater"
+    },
+    {
+      "url": "https://www.betterbuylab.com/home-theater/best-projectors",
+      "anchor": "Better Buy Lab home theater guide",
+      "path": "/home-theater/best-projectors"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "central hub"
+    },
+    {
+      "url": "https://github.com/betterbuylab/tv-buying-guide-resource-map",
+      "anchor": "tv-buying-guide-resource-map"
+    },
+    {
+      "url": "https://github.com/betterbuylab/headphone-audio-buying-resource-map",
+      "anchor": "headphone-audio-buying-resource-map"
+    }
+  ]
+}

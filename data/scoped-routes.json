@@ -1,0 +1,36 @@
+{
+  "guides": [
+    {
+      "path": "/home-theater",
+      "url": "https://www.betterbuylab.com/home-theater",
+      "pageType": "category"
+    },
+    {
+      "path": "/home-theater/best-projectors",
+      "url": "https://www.betterbuylab.com/home-theater/best-projectors",
+      "pageType": "buying-guide"
+    }
+  ],
+  "productNotes": [
+    {
+      "path": "/reviews/benq-th671st",
+      "url": "https://www.betterbuylab.com/reviews/benq-th671st"
+    },
+    {
+      "path": "/reviews/nexigo-pj40-pro",
+      "url": "https://www.betterbuylab.com/reviews/nexigo-pj40-pro"
+    },
+    {
+      "path": "/reviews/valerion-visionmaster-max",
+      "url": "https://www.betterbuylab.com/reviews/valerion-visionmaster-max"
+    },
+    {
+      "path": "/reviews/xgimi-horizon-20-max",
+      "url": "https://www.betterbuylab.com/reviews/xgimi-horizon-20-max"
+    },
+    {
+      "path": "/reviews/xgimi-horizon-20",
+      "url": "https://www.betterbuylab.com/reviews/xgimi-horizon-20"
+    }
+  ]
+}
